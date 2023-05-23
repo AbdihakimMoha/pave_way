@@ -916,14 +916,7 @@ iframe{
     justify-content: space-between;
     align-items: flex-start;
 }
-.logo{
-    size: 1.4rem;
-}
-.logo{
-    width: 180px;
-    margin-left: 0;
-    display: flex;
-}
+
 .footer-company-box{
     max-width: 330px;
 }
